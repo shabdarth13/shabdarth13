@@ -1,27 +1,287 @@
-# 💫 About Me:
-Final-year B.Tech Computer Science & Engineering student (graduating 2027) seeking Software Development Engineer, Full-Stack / Front-End Developer roles. Built and<br>deployed 8+ GitHub projects. Completed 2 internships in security engineering and digital forensics.
+# Hi, I'm Shabdarth 👋
 
+### Software Engineer • Backend & Systems • Full-Stack • Security
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/shabdarth) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shabdarthbindel@gmail.com) 
+I'm a final-year **B.Tech Computer Science & Engineering student at Graphic Era Hill University**, graduating in 2027.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=shabdarth13&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=shabdarth13&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=shabdarth13&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I build software from the ground up — from **TCP-based systems and compiler toolchains** to **full-stack applications, AI-powered security platforms, and production APIs**.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shabdarth13&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shabdarth13&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Currently focused on **Software Development Engineer / Backend Engineer** roles.
 
 ---
-[![](https://komarev.com/ghpvc/?username=shabdarth13&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ⚡ What I Build
+
+```text
+Systems & Backend
+├── Concurrent systems
+├── TCP / Socket programming
+├── REST APIs
+├── Authentication & RBAC
+├── Databases & caching
+└── Distributed-system concepts
+
+AI & Security
+├── NLP & Transformers
+├── Threat detection
+├── Digital forensics
+├── Threat intelligence
+└── Application security
+
+Full-Stack
+├── React / Next.js
+├── Node.js / Express
+├── Flask
+├── PostgreSQL / Prisma
+└── CI/CD & Cloud deployment
+```
+
+---
+
+## 🚀 Featured Projects
+
+### 🔴 JavaRedis — Redis-Compatible In-Memory Database
+
+**Java 17 · TCP Sockets · RESP2 · Concurrency · AOF · JUnit 5**
+
+A Redis-compatible datastore engineered from scratch rather than built around an existing database.
+
+* Implemented **30+ commands** across strings, lists, sets, hashes and TTL
+* Built a complete **RESP2 protocol codec over raw TCP**
+* Added concurrent client handling with a bounded executor
+* Used **striped per-key locking** to keep compound operations atomic without a global lock
+* Implemented **AOF persistence**, startup replay and TTL eviction
+* Covered the system with unit and integration tests
+
+🔗 [View Repository](https://github.com/shabdarth13/JavaRedis)
+
+---
+
+### 🧠 Smart Compiler
+
+**Python · Flask · Compiler Design · JavaScript**
+
+A complete compiler pipeline for a custom programming language with a browser-based development environment.
+
+```text
+Source Code
+    ↓
+Lexer
+    ↓
+Parser
+    ↓
+AST
+    ↓
+Semantic Analysis
+    ↓
+Optimization
+    ↓
+Interpreter
+    ↓
+Runtime Output
+```
+
+* Built lexer, recursive-descent parser, AST generator and semantic analyser
+* Added **constant-folding optimization**
+* Implemented a security checker for unsafe constructs
+* Added infinite-loop protection
+* Built an interactive browser IDE with AST visualization
+* Exposed the compiler through a Flask REST API
+* Deployed using **Gunicorn + Render**
+
+🔗 [View Repository](https://github.com/shabdarth13/smart-compiler)
+
+---
+
+### 🛡️ AI-Powered Threat Detection Platform
+
+**Python · PyTorch · DistilBERT · Flask · Threat Intelligence APIs**
+
+A unified security analysis platform combining multiple threat-detection engines into a single workflow.
+
+* Fine-tuned **DistilBERT** for phishing classification
+* Integrated **VirusTotal** and **Shodan**
+* Added IP intelligence, URL/domain reputation and security-posture analysis
+* Designed a **9-signal weighted risk engine**
+* Produces normalized **0–100 security risk scores**
+* Audits important OWASP-aligned security headers
+
+🔗 [View Repository](https://github.com/shabdarth13/AI_Powered_Threat_Detection)
+
+---
+
+### 🔎 AI-Powered Lost & Found Portal
+
+**Next.js · React · Prisma · NextAuth · Transformers**
+
+A full-stack platform that uses semantic similarity instead of simple keyword matching to connect lost and found reports.
+
+* Implemented browser-based transformer embeddings
+* Built type-safe database access with Prisma
+* Added credential authentication and bcrypt password hashing
+* Developed a component-driven responsive interface
+* Configured continuous deployment through Vercel
+
+🔗 [View Repository](https://github.com/Akhilcrab/AI--Powered-Lost-and-Found-Web-Portal)
+
+---
+
+### 🎙️ VocalShell
+
+**Python · spaCy · Vosk · Speech Recognition**
+
+A cross-platform voice-controlled command-line assistant.
+
+* Converts natural-language speech into executable shell commands
+* Supports both online and offline speech recognition
+* Added confirmation for destructive commands
+* Maintains timestamped command history
+* Generates batch scripts from voice input
+
+🔗 [View Repository](https://github.com/shabdarth13/VocalShell)
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+
+### Backend & Systems
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
+![REST](https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square)
+![TCP](https://img.shields.io/badge/TCP%2FSockets-333333?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square\&logo=jsonwebtokens\&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
+
+### Data
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square\&logo=sqlite\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square\&logo=prisma\&logoColor=white)
+
+### AI / ML
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square\&logo=huggingface\&logoColor=black)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square\&logo=spacy\&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-412991?style=flat-square)
+
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square\&logo=amazonaws\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white)
+
+---
+
+## 🔐 Security
+
+My security work includes:
+
+* Vulnerability assessment
+* Network reconnaissance
+* Nmap & Wireshark
+* OWASP Top 10
+* NIST CSF
+* Firewall & access-control hardening
+* Threat intelligence
+* Digital forensics
+* Malware analysis
+* Secure REST API development
+
+I've completed internships in **security engineering** and **digital forensics**, including structured vulnerability assessments across 20+ network endpoints.
+
+---
+
+## 🎓 Education
+
+**Graphic Era Hill University — Dehradun**
+
+**B.Tech — Computer Science & Engineering**
+2023 – 2027
+
+Relevant areas:
+
+`DSA` · `OOP` · `OS` · `DBMS` · `Computer Networks` · `Compiler Design` · `Software Engineering` · `Machine Learning`
+
+---
+
+## 📜 Certifications
+
+* **AWS Certified AI Practitioner — 2026**
+* AWS Security Learning Plan — IAM
+* Cisco Junior Cybersecurity Analyst
+* Cisco Network Defense
+* Advanced Certificate — Cyber Security & Digital Forensics
+* NPTEL Computer Networks & Internet Protocol
+* NPTEL Privacy & Security in Online Social Media
+* NPTEL Introduction to IoT
+
+---
+
+## 🏆 Highlights
+
+**72.16** — TCS National Qualifier Test (IT), 2026
+
+**8+** — GitHub repositories across systems, compilers, AI/ML and full-stack development
+
+**30+** — Redis-compatible database commands implemented
+
+**20+** — Network endpoints assessed during cybersecurity internship
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shabdarth13&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabdarth13&layout=compact&theme=transparent&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=shabdarth13&theme=transparent&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/shabdarth">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:shabdarthbindel@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://shabdtech.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://github.com/shabdarth13">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Build systems. Break assumptions. Learn how things actually work.</i>
+</p>
